@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Suraj Giri** 🚀<br>Software Developer | Open-Source Contributor<br><br>I am a passionate software developer with a strong interest in web and app development, AI, and DevOps. I enjoy building efficient and scalable solutions while continuously learning and exploring new technologies.<br><br>🔹 **Interests:** Web Development | App Development | AI & Machine Learning | DevOps<br>🔹 **Skills**: Java, JDBC, Spring Boot, Hibernate, React, HTML, CSS, MongoDB, MySQL<br>🔹** Projects:** Actively contributing to open-source projects and working on innovative solutions.
+**Suraj Giri** 🚀<br>Software Developer | Open-Source Contributor<br><br>I am a passionate software developer with a strong interest in web and app development, AI, and DevOps. I enjoy building efficient and scalable solutions while continuously learning and exploring new technologies.<br><br>🔹 Interests: Web Development | App Development | AI & Machine Learning | DevOps<br>🔹 Skills: Java, JDBC, Spring Boot, Hibernate, React, HTML, CSS, MongoDB, MySQL<br>🔹** Projects:** Actively contributing to open-source projects and working on innovative solutions.
 
 
 ## 🌐 Socials:
