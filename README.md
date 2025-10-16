@@ -15,7 +15,7 @@ Check out my portfolio: [Portfolio](https://about-me-git-main-surajgiri55446s-pr
 ## 🌟 Invoice-application:
 Check out Application: [invoice-application](https://billing-seven-alpha.vercel.app/)
 
-## 🌟 Invoice-application:
+## 🌟 job-protal-system:
 Check out Application: [job-protal-system](https://job-portal-742835143175.asia-south2.run.app)
 
 ## 🌟 money-management-application:
