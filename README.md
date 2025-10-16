@@ -18,6 +18,11 @@ Check out Application: [invoice-application](https://billing-seven-alpha.vercel.
 ## 🌟 Invoice-application:
 Check out Application: [job-protal-system](https://job-portal-742835143175.asia-south2.run.app)
 
+## 🌟 money-management-application:
+Check out Application: [job-protal-system](https://money-manager-frontend-eccz.vercel.app/login)
+
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
